@@ -1,0 +1,6 @@
+# HELP mf2 hello world
+# TYPE mf2 counter
+mf2 3
+mf1{label="value1"} -3.14 123456
+mf1{label="value2"} 42
+mf2 4
